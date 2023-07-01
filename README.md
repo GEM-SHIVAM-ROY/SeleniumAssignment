@@ -48,7 +48,7 @@ The project utilizes the following dependencies:
 - Cucumber: Behavior-Driven Development (BDD) tool for test execution and reporting.
 - Apache Maven: Build automation and dependency management tool.
 
- ## Output Excel sheet Samples
+ ## Output Excel sheet Sample
 
 ![Screenshot (47)](https://github.com/GEM-SHIVAM-ROY/SeleniumAssignment/assets/125790896/a7492d5f-5f65-4998-92f9-0bd562c13baa)
 
