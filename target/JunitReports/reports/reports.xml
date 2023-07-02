@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="62.407" tests="2" skipped="0" failures="0" errors="0">
+<testcase classname="Searching for Companies on Finology Ticker" name="Searching for Different Companies - Example #1.1" time="37.501">
+<system-out><![CDATA[
+Given the user is on the Finology Ticker website............................passed
+When the user clicks on the search box......................................passed
+And the user enters "Reliance" in the search box............................passed
+Then the user should see the search results for "Reliance"..................passed
+And the user fetches and store the details in the Excel sheet "0"...........passed
+And convert excel data to json array........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Searching for Companies on Finology Ticker" name="Searching for Different Companies - Example #1.2" time="23.939">
+<system-out><![CDATA[
+Given the user is on the Finology Ticker website............................passed
+When the user clicks on the search box......................................passed
+And the user enters "Tata" in the search box................................passed
+Then the user should see the search results for "Tata"......................passed
+And the user fetches and store the details in the Excel sheet "4"...........passed
+And convert excel data to json array........................................passed
+]]></system-out>
+</testcase>
+</testsuite>
